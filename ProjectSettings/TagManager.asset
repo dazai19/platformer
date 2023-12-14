@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Event
   - Enemy
+  - EnemyStopper
   layers:
   - Default
   - TransparentFX

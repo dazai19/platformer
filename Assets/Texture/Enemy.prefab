@@ -377,6 +377,7 @@ GameObject:
   - component: {fileID: 8943059647329927666}
   - component: {fileID: 1819595016151303750}
   - component: {fileID: 5894860390190186256}
+  - component: {fileID: 5566351431340776100}
   - component: {fileID: 8652421073079393645}
   - component: {fileID: 4281535901094108341}
   m_Layer: 0
@@ -461,6 +462,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 10
+--- !u!114 &5566351431340776100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4707442750792280100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55ab800b82baa1a4a80bf09b1f3eef9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 1
+  timeToRovert: 3
+  animator: {fileID: 464228388224967063}
+  spriteRenderer: {fileID: 3392044329184496880}
 --- !u!61 &8652421073079393645
 BoxCollider2D:
   m_ObjectHideFlags: 0
