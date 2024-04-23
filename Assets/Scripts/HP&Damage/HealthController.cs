@@ -15,7 +15,8 @@ public class HealthController : MonoBehaviour
     private void Awake()
     {
         health = maxHealth;
-        deathMenu.SetActive(false);
+        if (gameObject.CompareTag("Player")) deathMenu.SetActive(false);
+        Time.timeScale = 1.0f;
     }
 
     private void Update()

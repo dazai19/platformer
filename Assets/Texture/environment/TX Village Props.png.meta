@@ -77,6 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -89,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -101,6 +103,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -2973,142 +2976,142 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TX Village Props_6: -1758010481
-      TX Village Props_40: 72903088
-      TX Village Props_65: -1459829829
-      TX Village Props_74: 188208726
-      TX Village Props_123: -132903093
-      TX Village Props_68: 1607300888
-      TX Village Props_18: -1551794219
-      TX Village Props_2: -897668890
-      TX Village Props_87: 1100086238
-      TX Village Props_45: -1390703013
-      TX Village Props_17: -1980012613
+      TX Village Props_0: -1727548839
+      TX Village Props_1: 734665155
+      TX Village Props_10: -459280561
+      TX Village Props_100: -977108748
+      TX Village Props_101: 1642140474
+      TX Village Props_102: 1065380592
+      TX Village Props_103: 1171021454
+      TX Village Props_104: -819813643
       TX Village Props_105: -1602617907
-      TX Village Props_115: -1950831507
+      TX Village Props_106: -2062248830
+      TX Village Props_107: 223475475
+      TX Village Props_108: -1758331552
+      TX Village Props_109: -1557162016
       TX Village Props_11: 1176541333
       TX Village Props_110: -1510528715
-      TX Village Props_98: 133606837
-      TX Village Props_66: 1931345585
-      TX Village Props_33: 1175311727
-      TX Village Props_28: 557470662
-      TX Village Props_30: -1636809005
-      TX Village Props_46: 240835704
-      TX Village Props_99: -156297790
-      TX Village Props_9: 1852435565
-      TX Village Props_41: -1764675174
-      TX Village Props_77: -1223782902
-      TX Village Props_49: -1891057449
-      TX Village Props_62: 955476094
-      TX Village Props_84: -690902864
-      TX Village Props_92: -1537997842
-      TX Village Props_34: -1840807956
-      TX Village Props_37: 619672050
-      TX Village Props_75: -796434457
-      TX Village Props_43: -1215211729
-      TX Village Props_22: 1890476893
-      TX Village Props_97: 256774055
-      TX Village Props_50: 1784133035
-      TX Village Props_86: -1162005051
-      TX Village Props_21: -229832426
-      TX Village Props_100: -977108748
-      TX Village Props_78: 980324708
-      TX Village Props_88: 136266877
-      TX Village Props_12: 1560896783
-      TX Village Props_113: -1959192208
-      TX Village Props_8: -1856669368
-      TX Village Props_53: 894309637
-      TX Village Props_120: 35181550
-      TX Village Props_16: 348446135
-      TX Village Props_27: 2074550953
-      TX Village Props_63: 1270016124
-      TX Village Props_57: 1578184863
-      TX Village Props_102: 1065380592
-      TX Village Props_58: 1982872137
-      TX Village Props_70: -733527996
-      TX Village Props_71: 1099452139
-      TX Village Props_7: -1802096649
-      TX Village Props_122: 618148715
       TX Village Props_111: 554369295
-      TX Village Props_15: 637511437
-      TX Village Props_117: -2059462854
-      TX Village Props_104: -819813643
-      TX Village Props_80: -1643823094
-      TX Village Props_0: -1727548839
-      TX Village Props_4: -1415958910
-      TX Village Props_32: 60531036
-      TX Village Props_26: -1452609958
-      TX Village Props_36: -963521853
-      TX Village Props_129: -789072402
-      TX Village Props_39: 708474958
-      TX Village Props_106: -2062248830
-      TX Village Props_116: 2055487172
-      TX Village Props_60: 2015141538
-      TX Village Props_125: -1591123526
-      TX Village Props_44: -85982134
-      TX Village Props_73: -1610298657
-      TX Village Props_118: 1254501217
-      TX Village Props_109: -1557162016
-      TX Village Props_79: -1164881761
-      TX Village Props_64: 3948857
-      TX Village Props_13: 1643289659
-      TX Village Props_131: -1423670611
-      TX Village Props_14: 1925710926
-      TX Village Props_94: 523711740
-      TX Village Props_90: -1923010674
-      TX Village Props_24: 637837848
-      TX Village Props_59: -303262715
+      TX Village Props_112: 1587396997
+      TX Village Props_113: -1959192208
       TX Village Props_114: 95754757
+      TX Village Props_115: -1950831507
+      TX Village Props_116: 2055487172
+      TX Village Props_117: -2059462854
+      TX Village Props_118: 1254501217
+      TX Village Props_119: 1225185483
+      TX Village Props_12: 1560896783
+      TX Village Props_120: 35181550
+      TX Village Props_121: -1561877616
+      TX Village Props_122: 618148715
+      TX Village Props_123: -132903093
       TX Village Props_124: 1455290390
-      TX Village Props_135: 1706479328
-      TX Village Props_38: 641184343
-      TX Village Props_55: -1211512582
-      TX Village Props_42: 1458170734
-      TX Village Props_128: -372424825
-      TX Village Props_76: -1310718675
-      TX Village Props_19: -1708850161
-      TX Village Props_93: -607434138
-      TX Village Props_67: -1008540838
-      TX Village Props_96: 417907441
-      TX Village Props_56: 1178599026
-      TX Village Props_81: -538083757
-      TX Village Props_103: 1171021454
-      TX Village Props_35: 619421918
-      TX Village Props_25: 2087199777
-      TX Village Props_3: -365223760
-      TX Village Props_83: -2138817182
-      TX Village Props_82: -102443425
-      TX Village Props_95: -2005738890
-      TX Village Props_69: 680100046
-      TX Village Props_20: 102571702
-      TX Village Props_29: 85462843
-      TX Village Props_61: -508228582
-      TX Village Props_52: 98765008
-      TX Village Props_48: -1129695121
-      TX Village Props_51: -262643341
+      TX Village Props_125: -1591123526
       TX Village Props_126: 1953812414
-      TX Village Props_107: 223475475
-      TX Village Props_85: 1536130064
-      TX Village Props_72: 110983144
+      TX Village Props_127: -551121753
+      TX Village Props_128: -372424825
+      TX Village Props_129: -789072402
+      TX Village Props_13: 1643289659
+      TX Village Props_130: 1888875815
+      TX Village Props_131: -1423670611
       TX Village Props_132: 1074049587
       TX Village Props_133: 154028511
-      TX Village Props_10: -459280561
-      TX Village Props_112: 1587396997
-      TX Village Props_91: -251592041
-      TX Village Props_5: 1832113990
-      TX Village Props_23: 1351337137
-      TX Village Props_31: 54989211
-      TX Village Props_47: -650332805
-      TX Village Props_108: -1758331552
-      TX Village Props_119: 1225185483
-      TX Village Props_1: 734665155
-      TX Village Props_101: 1642140474
-      TX Village Props_121: -1561877616
-      TX Village Props_130: 1888875815
-      TX Village Props_89: -623859978
-      TX Village Props_127: -551121753
-      TX Village Props_54: 1613760980
       TX Village Props_134: -674059121
+      TX Village Props_135: 1706479328
+      TX Village Props_14: 1925710926
+      TX Village Props_15: 637511437
+      TX Village Props_16: 348446135
+      TX Village Props_17: -1980012613
+      TX Village Props_18: -1551794219
+      TX Village Props_19: -1708850161
+      TX Village Props_2: -897668890
+      TX Village Props_20: 102571702
+      TX Village Props_21: -229832426
+      TX Village Props_22: 1890476893
+      TX Village Props_23: 1351337137
+      TX Village Props_24: 637837848
+      TX Village Props_25: 2087199777
+      TX Village Props_26: -1452609958
+      TX Village Props_27: 2074550953
+      TX Village Props_28: 557470662
+      TX Village Props_29: 85462843
+      TX Village Props_3: -365223760
+      TX Village Props_30: -1636809005
+      TX Village Props_31: 54989211
+      TX Village Props_32: 60531036
+      TX Village Props_33: 1175311727
+      TX Village Props_34: -1840807956
+      TX Village Props_35: 619421918
+      TX Village Props_36: -963521853
+      TX Village Props_37: 619672050
+      TX Village Props_38: 641184343
+      TX Village Props_39: 708474958
+      TX Village Props_4: -1415958910
+      TX Village Props_40: 72903088
+      TX Village Props_41: -1764675174
+      TX Village Props_42: 1458170734
+      TX Village Props_43: -1215211729
+      TX Village Props_44: -85982134
+      TX Village Props_45: -1390703013
+      TX Village Props_46: 240835704
+      TX Village Props_47: -650332805
+      TX Village Props_48: -1129695121
+      TX Village Props_49: -1891057449
+      TX Village Props_5: 1832113990
+      TX Village Props_50: 1784133035
+      TX Village Props_51: -262643341
+      TX Village Props_52: 98765008
+      TX Village Props_53: 894309637
+      TX Village Props_54: 1613760980
+      TX Village Props_55: -1211512582
+      TX Village Props_56: 1178599026
+      TX Village Props_57: 1578184863
+      TX Village Props_58: 1982872137
+      TX Village Props_59: -303262715
+      TX Village Props_6: -1758010481
+      TX Village Props_60: 2015141538
+      TX Village Props_61: -508228582
+      TX Village Props_62: 955476094
+      TX Village Props_63: 1270016124
+      TX Village Props_64: 3948857
+      TX Village Props_65: -1459829829
+      TX Village Props_66: 1931345585
+      TX Village Props_67: -1008540838
+      TX Village Props_68: 1607300888
+      TX Village Props_69: 680100046
+      TX Village Props_7: -1802096649
+      TX Village Props_70: -733527996
+      TX Village Props_71: 1099452139
+      TX Village Props_72: 110983144
+      TX Village Props_73: -1610298657
+      TX Village Props_74: 188208726
+      TX Village Props_75: -796434457
+      TX Village Props_76: -1310718675
+      TX Village Props_77: -1223782902
+      TX Village Props_78: 980324708
+      TX Village Props_79: -1164881761
+      TX Village Props_8: -1856669368
+      TX Village Props_80: -1643823094
+      TX Village Props_81: -538083757
+      TX Village Props_82: -102443425
+      TX Village Props_83: -2138817182
+      TX Village Props_84: -690902864
+      TX Village Props_85: 1536130064
+      TX Village Props_86: -1162005051
+      TX Village Props_87: 1100086238
+      TX Village Props_88: 136266877
+      TX Village Props_89: -623859978
+      TX Village Props_9: 1852435565
+      TX Village Props_90: -1923010674
+      TX Village Props_91: -251592041
+      TX Village Props_92: -1537997842
+      TX Village Props_93: -607434138
+      TX Village Props_94: 523711740
+      TX Village Props_95: -2005738890
+      TX Village Props_96: 417907441
+      TX Village Props_97: 256774055
+      TX Village Props_98: 133606837
+      TX Village Props_99: -156297790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,4 @@
-using System;
-using Unity.VisualScripting;
+using System.Diagnostics;
 using UnityEngine;
 //[RequireComponent(typeof(HealthController))]
 public class DamageDiller : MonoBehaviour
@@ -17,7 +16,7 @@ public class DamageDiller : MonoBehaviour
 
     private void OnCollisionStay2D(Collision2D collision)
     {
-        if (collision.gameObject.GetComponent<HealthController>())
+        if (collision.gameObject.GetComponent<HealthController>() && collision.gameObject.name != "PlayerGod")
         {
             collision.gameObject.GetComponent<HealthController>().TakeDamage(1f);
         }

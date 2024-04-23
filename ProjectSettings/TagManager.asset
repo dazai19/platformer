@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - EnemyStopper
   - Heal
+  - Bonus
   layers:
   - Default
   - TransparentFX
