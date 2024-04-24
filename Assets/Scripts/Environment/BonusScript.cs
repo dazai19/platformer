@@ -3,21 +3,16 @@ using UnityEngine;
 
 public class BonusScript : MonoBehaviour
 {
-    [SerializeField] private TMP_Text bonusValue;
+    [SerializeField] private TMP_Text coinValue;
+    [SerializeField] private GameObject[] imageBonus; // 0 1 2 3 4
 
-    private int bonusCounter = 0;
-
-    private void Awake()
-    {
-        //bonusValue = GetComponent<TextMeshPro>();
-        bonusCounter = ConvertStringToInt32(bonusCounter);
-    }
+    private int coinCounter = 0;
 
     private int ConvertStringToInt32(int value)
     {
         try
         {
-            return value = int.Parse(bonusValue.text);
+            return value = int.Parse(coinValue.text);
         }
         catch (System.Exception)
         {
@@ -29,9 +24,31 @@ public class BonusScript : MonoBehaviour
     {
         if (col.CompareTag("Player"))
         {
-            bonusCounter++;
-            bonusValue.text = bonusCounter.ToString();
-            Destroy(gameObject, .1f);
+            switch (gameObject.tag)
+            {
+                case "Coin":
+                    coinCounter = ConvertStringToInt32(coinCounter);
+                    coinCounter++;
+                    coinValue.text = coinCounter.ToString();
+                    Destroy(gameObject, .1f);
+                    break;
+
+                case "Bonus":
+                    for (int i = 0; i < imageBonus.Length; i++)
+                    {
+                        if (!imageBonus[i].activeSelf)
+                        {
+                            imageBonus[i].SetActive(true);
+                            Destroy(gameObject, .1f);
+                            break;
+                        }
+                    }
+                    
+                    break;
+            }
+
         }
     }
+
+
 }

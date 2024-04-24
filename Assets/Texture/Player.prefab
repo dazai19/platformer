@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 779016546889412926}
   m_Layer: 0
   m_Name: BodyCollider
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -364,7 +364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 074d479c01bb68d4d9cd1a53ce7af387, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 50
+  health: 100
   maxHealth: 100
   healthBarUI: {fileID: 6730827615401543177}
   healthBar: {fileID: 1344933242351651241}

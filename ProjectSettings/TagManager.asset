@@ -9,6 +9,7 @@ TagManager:
   - EnemyStopper
   - Heal
   - Bonus
+  - Coin
   layers:
   - Default
   - TransparentFX

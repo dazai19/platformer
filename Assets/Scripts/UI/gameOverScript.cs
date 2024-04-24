@@ -18,10 +18,4 @@ public class gameOverScript : MonoBehaviour
             if (gameUI != null) gameUI.SetActive(false);
         }
     }
-
-    public void ReloadLevel()
-    {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-    }
 }
