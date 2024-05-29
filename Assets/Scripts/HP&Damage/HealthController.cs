@@ -9,7 +9,6 @@ public class HealthController : MonoBehaviour
     [SerializeField] private GameObject healthBarUI;
     [SerializeField] private Slider healthBar;
     [SerializeField] private GameObject deathMenu;
-    [SerializeField] private GameObject heal;
 
 
     private void Awake()

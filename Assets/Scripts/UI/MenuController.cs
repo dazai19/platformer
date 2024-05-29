@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -6,7 +7,7 @@ public class MenuController : MonoBehaviour
     public void RestartLevel()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        Time.timeScale = 1;
+        PlayGame();
     }
 
     public void PauseGame()
@@ -22,5 +23,10 @@ public class MenuController : MonoBehaviour
     public void LoadSelectLevels(int i)
     {
         SceneManager.LoadScene(i);
+    }
+
+    public void OuitApp()
+    {
+        Application.Quit();
     }
 }

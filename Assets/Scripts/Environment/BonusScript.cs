@@ -1,11 +1,14 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BonusScript : MonoBehaviour
 {
     [SerializeField] private TMP_Text coinValue;
     [SerializeField] private GameObject[] imageBonus; // 0 1 2 3 4
-
+    [SerializeField] private int finishBonus;
+    
+    private int bounusCounter = 0;
     private int coinCounter = 0;
 
     private int ConvertStringToInt32(int value)
@@ -40,6 +43,7 @@ public class BonusScript : MonoBehaviour
                         {
                             imageBonus[i].SetActive(true);
                             Destroy(gameObject, .1f);
+                            bounusCounter++;
                             break;
                         }
                     }
@@ -47,6 +51,15 @@ public class BonusScript : MonoBehaviour
                     break;
             }
 
+        }
+    }
+
+    private void Update()
+    {
+        if(bounusCounter >= finishBonus)
+        {
+            //вызов фигишного меню 
+            
         }
     }
 
